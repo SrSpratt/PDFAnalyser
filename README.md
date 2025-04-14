@@ -1,8 +1,8 @@
 # PDFAnalyser
 
-Crie um ambiente
+# Crie um ambiente
 * python -m venv textAnalyser
-Entre no ambiente
+# Entre no ambiente
 * python source textAnalyser/bin/activate
-Execute o script run
+# Execute o script run
 * ./run.sh
